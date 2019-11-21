@@ -16,6 +16,7 @@
 		3D54193E238695D9007B9B47 /* MyLib8828Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D54193D238695D9007B9B47 /* MyLib8828Tests.m */; };
 		3D541949238695D9007B9B47 /* MyLib8828UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D541948238695D9007B9B47 /* MyLib8828UITests.m */; };
 		3D541959238695F9007B9B47 /* Home.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D541958238695F9007B9B47 /* Home.m */; };
+		3D54195B23869646007B9B47 /* MyLib8828.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 3D54195A23869646007B9B47 /* MyLib8828.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		3D54194A238695D9007B9B47 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3D541957238695F9007B9B47 /* Home.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Home.h; sourceTree = "<group>"; };
 		3D541958238695F9007B9B47 /* Home.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Home.m; sourceTree = "<group>"; };
+		3D54195A23869646007B9B47 /* MyLib8828.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = MyLib8828.podspec; path = ../../MyLib8828.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 		3D541923238695D8007B9B47 /* MyLib8828 */ = {
 			isa = PBXGroup;
 			children = (
+				3D54195A23869646007B9B47 /* MyLib8828.podspec */,
 				3D541956238695F1007B9B47 /* MyLibTool */,
 				3D541924238695D8007B9B47 /* AppDelegate.h */,
 				3D541925238695D8007B9B47 /* AppDelegate.m */,
@@ -249,6 +252,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D54195B23869646007B9B47 /* MyLib8828.podspec in Resources */,
 				3D541931238695D9007B9B47 /* LaunchScreen.storyboard in Resources */,
 				3D54192E238695D9007B9B47 /* Assets.xcassets in Resources */,
 				3D54192C238695D8007B9B47 /* Main.storyboard in Resources */,
